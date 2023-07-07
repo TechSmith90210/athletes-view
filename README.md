@@ -3,11 +3,11 @@
 The Athletes View App is a mobile application that allows users to view basic, intermediate, and advanced athletes. The app provides a simple interface for users to browse through athletes' profiles and gain insights into their achievements and skills.
 
 <<<<<<< HEAD
-![App Screenshot 1](screenshots/basic.png)
-
-![App Screenshot 2](screenshots/intermediate.png)
-
-![App Screenshot 3](screenshots/advanced.png)
+<div style="display: flex; justify-content: space-between;">
+  <img src="screenshots/basic.png" alt="Image 1" width="300" height="300"/>
+  <img src="screenshots/intermediate.png" alt="Image 2" width="300" height="300"/>
+  <img src="screenshots/advanced.png" alt="Image 3" width="300" height="300"/>
+</div>
 
 
 ## Features
