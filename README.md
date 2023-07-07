@@ -2,6 +2,7 @@
 
 The Athletes View App is a mobile application that allows users to view basic, intermediate, and advanced athletes. The app provides a simple interface for users to browse through athletes' profiles and gain insights into their achievements and skills.
 
+<<<<<<< HEAD
 ![App Screenshot 1](screenshots/basic.png)
 
 ![App Screenshot 2](screenshots/intermediate.png)
@@ -19,6 +20,18 @@ The Athletes View App is a mobile application that allows users to view basic, i
 
 The Athletes View App is built using the following technologies:
 
+=======
+## Features
+
+- **Athlete Categories**: Explore basic, intermediate, and advanced athletes.
+- **Athlete Profiles**: View detailed profiles of athletes, including their names and information.
+- **User-Friendly Interface**: Easy-to-use interface for seamless navigation and browsing.
+
+## Technologies Used
+
+The Athletes View App is built using the following technologies:
+
+>>>>>>> b4a2ecf140a0524f3760ade3ab563cd91a9e2a55
 - Flutter: A cross-platform framework for building native mobile apps.
 - Dart: The programming language used for developing the app.
 
