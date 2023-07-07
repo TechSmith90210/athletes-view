@@ -4,9 +4,9 @@ The Athletes View App is a mobile application that allows users to view basic, i
 
 <<<<<<< HEAD
 <div style="display: flex; justify-content: space-between;">
-  <img src="screenshots/basic.png" alt="Image 1" width="290" height="300"/>
-  <img src="screenshots/intermediate.png" alt="Image 2" width="290" height="300"/>
-  <img src="screenshots/advanced.png" alt="Image 3" width="290" height="300"/>
+  <img src="screenshots/basic.png" alt="Image 1" width="270" height="300"/>
+  <img src="screenshots/intermediate.png" alt="Image 2" width="270" height="300"/>
+  <img src="screenshots/advanced.png" alt="Image 3" width="270" height="300"/>
 </div>
 
 
